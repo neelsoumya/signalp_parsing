@@ -1,0 +1,7 @@
+# SignalP-4.1 gram- predictions
+# name                     Cmax  pos  Ymax  pos  Smax  pos  Smean   D     ?  Dmaxcut    Networks-used
+PROKKA_00001               0.104  26  0.123  11  0.186   3  0.159   0.136 N  0.510      SignalP-TM
+PROKKA_00002               0.111  28  0.197  12  0.459   9  0.391   0.288 N  0.570      SignalP-noTM
+PROKKA_00003               0.103  34  0.136  14  0.216   6  0.185   0.159 N  0.570      SignalP-noTM
+PROKKA_00004               0.121  47  0.106  47  0.118   4  0.085   0.096 N  0.570      SignalP-noTM
+PROKKA_00005               0.153  25  0.250  25  0.474  22  0.381   0.299 N  0.510      SignalP-TM
